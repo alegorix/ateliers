@@ -13,7 +13,7 @@
 Pendant l'atelier, les participants travailleront sur la création d'une application web simple en PHP qui utilise une ou plusieurs sources de données ouvertes pour afficher des informations pertinentes. 
 
 L'application pourrait, par exemple :
-- Afficher des informations météorologiques en temps réel pour Châtelet à partir d'une API.
+- Afficher des informations météorologiques en temps réel pour Charleroi à partir d'une API.
 - Visualiser des données de transport public (horaires, itinéraires) sur une carte.
 - Présenter des statistiques locales (population, économie) sous forme de graphiques.
 
