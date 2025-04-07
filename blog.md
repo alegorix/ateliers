@@ -1,4 +1,5 @@
-# Fonctionnalités du Blog
+# Atelier BLOG
+# Fonctionnalités
 
 Les participants devront implémenter les fonctionnalités de base suivantes :
 
