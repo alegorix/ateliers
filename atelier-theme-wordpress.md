@@ -1,29 +1,18 @@
 ﻿
 # Atelier : Création d'un Thème WordPress Personnalisé de A à Z
 
-## Durée Totale : 60 heures (15 séances de 4 heures)
-
-### Objectifs de l'Atelier :
+## Objectifs de l'Atelier :
 - Comprendre l'architecture et le fonctionnement de WordPress.
 - Maîtriser les fichiers essentiels d'un thème WordPress.
 - Utiliser les fonctions et les hooks de WordPress pour personnaliser le thème.
-- Structurer le contenu avec HTML sémantique.
+- Structurer le contenu avec HTML.
 - Styliser le thème avec CSS et potentiellement un framework CSS (Bootstrap ou Tailwind CSS).
 - Rendre le thème responsive pour une expérience utilisateur optimale sur différents appareils.
 - Intégrer des fonctionnalités de base comme les menus, les sidebars et les widgets.
 - Comprendre les bonnes pratiques de développement de thèmes WordPress.
 - Être capable de créer un thème WordPress simple mais fonctionnel.
 
-### Public Cible :
-Développeurs web débutants à intermédiaires ayant des connaissances de base en HTML, CSS et PHP. Une familiarité avec WordPress en tant qu'utilisateur est un plus.
-
-### Prérequis :
-- Connaissances solides en HTML et CSS.
-- Notions de base en PHP (variables, conditions, boucles, fonctions).
-- Familiarité avec un environnement de développement local (XAMPP, MAMP, ou Docker).
-- Un éditeur de code (VS Code, Sublime Text, PHPStorm).
-
-### Technologies à Utiliser :
+## Technologies à Utiliser :
 - CMS : WordPress (dernière version stable recommandée)
 - Langage Principal : PHP
 - Langage Client : HTML5
@@ -31,7 +20,7 @@ Développeurs web débutants à intermédiaires ayant des connaissances de base 
 - JavaScript : Notions de base pour des interactions simples (facultatif)
 - Outils de Développement : Navigateur avec outils de développement, environnement local
 
-### Structure du Thème à Créer :
+## Structure du Thème à Créer (minimum) :
 - Page d'accueil
 - Page d'article unique
 - Page d'archive
@@ -40,13 +29,7 @@ Développeurs web débutants à intermédiaires ayant des connaissances de base 
 - Pied de page (Footer)
 - Menu de navigation principal
 
-## Plan de l'Atelier (15 séances de 4 heures) :
-### Bloc 1 : Introduction et Structure de Base (Séances 1-3)
-... (contenu abrégé pour la démonstration)
-### Bloc 5 : Fonctionnalités Supplémentaires et Finalisation (Séances 13-15)
-... (contenu abrégé pour la démonstration)
 
 ## Livrables Attendus :
 - Un dossier de thème WordPress fonctionnel.
-- Un fichier README.md expliquant brièvement la structure et les fonctionnalités du thème.
 - Un thème responsive qui s'affiche correctement sur différentes tailles d'écran.
